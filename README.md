@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Computer Science student from Sri Lanka.</h1>
-<h3 align="center">I'm passionate about learning new technologies and building small projects.</h3>
+<h3 align="center">I'm passionate about learning new technologies and building projects.</h3>
 
 - 🔭 I’m currently working on [Library Management System project](https://github.com/Kavindi487/Library-Management-System)
 
