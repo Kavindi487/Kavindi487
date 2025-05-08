@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Library Management System project](https://github.com/Kavindi487/Library-Management-System)
 
-- 🌱 I’m currently learning **C, Java, C#, HTML/CSS, SQL, and GitHub basics**
+- 🌱 I’m currently learning **mern, Java, C#, SQL, and GitHub basics**
 
 - 👯 I’m looking to collaborate on **🎣 FisherNet – Smart fishing zone & illegal fishing monitor**
 
