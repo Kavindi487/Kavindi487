@@ -9,9 +9,9 @@
   <img src="https://img.shields.io/github/stars/Kavindi487/Library-Management-System?style=social" alt="Stars" />
 </p>
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Kavindi487&label=Profile%20views&color=0e75b6&style=flat" alt="Kavindi487" />
-</p>
+</p> -->
 
 - 🔭 I’m currently working on [Library Management System project](https://github.com/Kavindi487/Library-Management-System)
 
