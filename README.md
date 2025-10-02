@@ -2,6 +2,7 @@
 <p align="center">
   Passionate about coding, solving problems, and building cool stuff with technology.
 </p>
+![GitHub followers](https://img.shields.io/github/followers/Kavindi487?label=Followers&style=social)
 
 - 🔭 I’m currently working on [Library Management System project](https://github.com/Kavindi487/Library-Management-System)
 
