@@ -2,6 +2,13 @@
 <p align="center">
   Passionate about coding, solving problems, and building cool stuff with technology.
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Kavindi487?label=Followers&style=social" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Kavindi487&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/stars/Kavindi487/Library-Management-System?style=social" alt="Stars" />
+</p>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Kavindi487&label=Profile%20views&color=0e75b6&style=flat" alt="Kavindi487" />
 </p>
