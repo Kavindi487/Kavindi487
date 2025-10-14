@@ -2,9 +2,10 @@
   <img src="https://komarev.com/ghpvc/?username=Kavindi487&label=Profile%20Views&color=00C8FF&style=flat-square" alt="Profile views" />
 </p>
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=👋+Hi+There!;💫+Welcome+to+my+GitHub+Profile!;I'm+Kavindi+Vidusari;💻+Full+Stack+Developer+in+the+making!;🚀+Let's+build+something+amazing+together!" alt="Welcome Typing SVG" />
-  </a>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=👋+Hi+there!;Welcome+to+my+profile;I'm+Kavindi+Vidusari!" 
+    alt="Welcome animation" 
+  />
 </h1>
 
 
