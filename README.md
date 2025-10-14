@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br> 🧭 I’m currently working on Full-Stack Web Development Projects <br> 🤝 I’m looking to collaborate on  Open Source MERN / Laravel Projects  <br> 🚀 I’m looking for help with deploying full-stack apps and improving performance optimization  <br> 🌱 I’m currently learning  React, Node.js, and Laravel  <br> 💬 Ask me about  Java, PHP, C++,React, or MySQL<br>> ⚡ Fun fact: My favorite part of coding is turning imagination into something real<br>
+<br><br> 🧭 I’m currently working on Full-Stack Web Development Projects <br> 🤝 I’m looking to collaborate on  Open Source MERN / Laravel Projects  <br> 🚀 I’m looking for help with deploying full-stack apps and improving performance optimization  <br> 🌱 I’m currently learning  React, Node.js, and Laravel  <br> 💬 Ask me about  Java, PHP, C++,React, or MySQL<br> ⚡ Fun fact: My favorite part of coding is turning imagination into something real<br>
 
 
 ## 🌐 Socials:
