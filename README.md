@@ -70,12 +70,11 @@
 
 ---
 
-<!-- Footer Section -->
 <!-- 🌸 Custom Footer Section -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img alt="Thanks for visiting!" 
-         src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00E5FF&center=true&vCenter=true&width=450&lines=🌼+Thanks+for+visiting!;💻+Keep+coding+and+creating!;🚀+See+you+again+soon!" />
+    <img alt="Thanks for visiting!"
+         src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Keep+coding+and+creating!;See+you+again+soon!" />
   </a>
 </div>
 
@@ -88,8 +87,9 @@
 </p>
 
 <div align="center">
-  <img alt="Waving animation" width="150" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
+  <img alt="Waving hand animation" width="120" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 </div>
+
 
 
 
