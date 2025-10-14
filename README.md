@@ -67,4 +67,23 @@
   <a href="https://ko-fi.com/kavindi"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
 </p>
 
+<!-- Footer Section -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img alt="Thanks for visiting!" 
+         src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00C8FF&center=true&vCenter=true&width=420&lines=✨+Thanks+for+stopping+by!;💖+Come+back+soon!;🌸+Have+a+wonderful+day!">
+  </a>
+</div>
+
+<p align="right">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/⬆️_Back_to_Top-0A66C2?style=for-the-badge&logo=github" alt="back to top"/>
+  </a>
+</p>
+
+<div align="center">
+  <img alt="Wave animation" width="150" src="https://raw.githubusercontent.com/Kavindi487/Kavindi487/main/assets/wave.gif">
+</div>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
