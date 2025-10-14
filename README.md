@@ -2,12 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=Kavindi487&label=Profile%20Views&color=00C8FF&style=flat-square" alt="Profile views" />
 </p>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-  </a>
-</h1>
-
 
 
 # 💫 About Me:
