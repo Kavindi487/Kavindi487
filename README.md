@@ -67,13 +67,19 @@
   <a href="https://ko-fi.com/kavindi"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
 </p>
 
+
+---
+
 <!-- Footer Section -->
+<!-- 🌸 Custom Footer Section -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img alt="Thanks for visiting!" 
-         src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00C8FF&center=true&vCenter=true&width=420&lines=✨+Thanks+for+stopping+by!;💖+Come+back+soon!;🌸+Have+a+wonderful+day!">
+         src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00E5FF&center=true&vCenter=true&width=450&lines=🌼+Thanks+for+visiting!;💻+Keep+coding+and+creating!;🚀+See+you+again+soon!" />
   </a>
 </div>
+
+<br>
 
 <p align="right">
   <a href="#top">
@@ -82,8 +88,9 @@
 </p>
 
 <div align="center">
-  <img alt="Wave animation" width="150" src="https://raw.githubusercontent.com/Kavindi487/Kavindi487/main/assets/wave.gif">
+  <img alt="Waving animation" width="150" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 </div>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
