@@ -1,3 +1,15 @@
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kavindi487&label=Profile%20Views&color=0e75b6&style=flat" alt="Kavindi487" />
+</p>
+
+<h1 align="center">  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=4000&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=👋+Welcome+to+my+GitHub!;I'm+Kavindi+Vidusari;A+Passionate+Full-Stack+Developer+🚀" alt="Typing SVG" />
+  </a>
+</h1>
+
+
 # 💫 About Me:
 <br><br> 🧭 I’m currently working on Full-Stack Web Development Projects <br> 🤝 I’m looking to collaborate on  Open Source MERN / Laravel Projects  <br> 🚀 I’m looking for help with deploying full-stack apps and improving performance optimization  <br> 🌱 I’m currently learning  React, Node.js, and Laravel  <br> 💬 Ask me about  Java, PHP, C++,React, or MySQL<br> ⚡ Fun fact: My favorite part of coding is turning imagination into something real<br>
 
@@ -54,11 +66,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kavindi487&label=Profile%20Views&color=0e75b6&style=flat" alt="Kavindi487" />
-</p>
 
----
 
 <h3 align="center">💰 You can help me by Donating</h3>
 <p align="center">
