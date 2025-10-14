@@ -55,7 +55,7 @@
 ---
 
 <p align="center">
-<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Kavindi487&icon=5&color=3"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Kavindi487&label=Profile%20Views&color=0e75b6&style=flat" alt="Kavindi487" />
 </p>
 
 ---
